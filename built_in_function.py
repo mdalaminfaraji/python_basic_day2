@@ -1,0 +1,5 @@
+heighest=max(234,546,546,4,5643)
+loest=min(234,546,546,4,5643)
+a = (1, 2, 3, 4, 5)
+x = sum(a, 7)
+print(heighest, loest, x)
